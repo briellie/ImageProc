@@ -1,3 +1,5 @@
 bin/GraphicsMagick-1.3.25-Q8/
+bin/ext/
 bin/*.exe
 bin/*.dll
+bin/php.ini
